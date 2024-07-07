@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TestDb2Application<testDb2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Testing.testDb2.TestDb2Application",
+            "projectName": "testDb2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
